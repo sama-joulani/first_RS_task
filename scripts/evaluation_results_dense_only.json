@@ -1,0 +1,239 @@
+{
+  "timestamp": "2026-02-17T14:45:50.461793",
+  "configuration": "dense_only_no_hybrid",
+  "summary": {
+    "total_questions": 25,
+    "total_tests": 50,
+    "has_citations": 50,
+    "has_citations_pct": 100.0,
+    "correct_page": 14,
+    "correct_page_pct": 28.0
+  },
+  "results": [
+    {
+      "id": 1,
+      "question_ar": "ما هو الخوارزمي؟",
+      "question_en": "What is Al-Khwarizmi?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": true,
+      "page_match_en": false
+    },
+    {
+      "id": 2,
+      "question_ar": "هل لديكم فرع في المملكة العربية السعودية؟",
+      "question_en": "Do you have a branch in KSA?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 3,
+      "question_ar": "لماذا حلول ريلسوفت؟",
+      "question_en": "Why RealSoft solutions?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 4,
+      "question_ar": "من هم عملاؤكم؟",
+      "question_en": "Who are your clients?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 5,
+      "question_ar": "أرسل لي شهادات العملاء.",
+      "question_en": "Send me the Testimonials.",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 6,
+      "question_ar": "ما هي ريلسوفت؟",
+      "question_en": "What is RealSoft?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 7,
+      "question_ar": "كيف يمكنني التواصل معكم؟",
+      "question_en": "How to contact you?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 8,
+      "question_ar": "ما هي قيم ريلسوفت؟",
+      "question_en": "What are RealSoft's values?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 9,
+      "question_ar": "حدثني عن فريق ريلسوفت.",
+      "question_en": "Tell me about RealSoft's team.",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 10,
+      "question_ar": "ما هي المعايير الدولية للعمليات الإحصائية التي تتبعونها؟",
+      "question_en": "What International standards for statistical operations do you follow?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 11,
+      "question_ar": "كيف يمكن لشركتكم مساعدتي؟",
+      "question_en": "How can your company help me?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 12,
+      "question_ar": "ما هي رؤية ريلسوفت ورسالتها؟",
+      "question_en": "What is RealSoft's vision and mission?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 13,
+      "question_ar": "ما هو منتج \"أداء\"؟",
+      "question_en": "What is the \"Ada'a\" product?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 14,
+      "question_ar": "من هو رئيس الشركة؟",
+      "question_en": "Who is the President of the company?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 15,
+      "question_ar": "ما هي منتجات \"RealData Hub\"؟",
+      "question_en": "What are the \"RealData Hub\" products?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 16,
+      "question_ar": "ما هو دور الذكاء الاصطناعي في ريلسوفت؟",
+      "question_en": "What is the role of AI at RealSoft?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 17,
+      "question_ar": "هل تقدمون حلولاً للتحول الرقمي؟",
+      "question_en": "Do you provide Digital Transformation solutions?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 18,
+      "question_ar": "ما هي الجوائز التي حصلت عليها الشركة؟",
+      "question_en": "What awards has the company received?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 19,
+      "question_ar": "من هم شركاء التكنولوجيا لريلسوفت؟",
+      "question_en": "Who are RealSoft's technology partners?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 20,
+      "question_ar": "ما هي خدمات \"بعد البيع\" التي تقدمونها؟",
+      "question_en": "What after-sales services do you offer?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 21,
+      "question_ar": "ما هو تطبيق \"FalconMap\"؟",
+      "question_en": "What is the \"FalconMap\" application?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 22,
+      "question_ar": "هل تقدمون خدمات تدريب؟",
+      "question_en": "Do you provide training services?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 23,
+      "question_ar": "ما هي خبرتكم في تعداد العراق 2024؟",
+      "question_en": "What is your experience with the Iraq Census 2024?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    },
+    {
+      "id": 24,
+      "question_ar": "ما هي خدمات التعهيد (Outsourcing) لديكم؟",
+      "question_en": "What are your outsourcing services?",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": false
+    },
+    {
+      "id": 25,
+      "question_ar": "تحدث عن حلول ريلسوفت للقطاع المصرفي.",
+      "question_en": "Tell me about RealSoft's solutions for the banking sector.",
+      "has_citations_ar": true,
+      "has_citations_en": true,
+      "page_match_ar": false,
+      "page_match_en": true
+    }
+  ]
+}
