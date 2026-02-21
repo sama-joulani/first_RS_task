@@ -4,6 +4,8 @@ from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+import os
 from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 
@@ -49,7 +51,19 @@ app.include_router(search.router)
 app.include_router(chat.router)
 app.include_router(admin.router)
 
-# ---- Static files (UI) ----
+# ---- Static files (UI) with no-cache headers ----
+@app.get("/", response_class=FileResponse)
+async def serve_index():
+    """Serve index.html with cache-busting headers."""
+    return FileResponse(
+        os.path.join("static", "index.html"),
+        headers={
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0"
+        }
+    )
+
 app.mount("/", StaticFiles(directory="static", html=True), name="static")
 
 
